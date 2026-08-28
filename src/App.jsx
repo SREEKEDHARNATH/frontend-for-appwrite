@@ -8,7 +8,7 @@ const navItems = [
 
 const featureCards = [
   {
-    title: 'Performance first',
+    title: 'Performance first faa',
     description: 'Powered by React + Vite for fast loads and instant feedback.',
   },
   {
